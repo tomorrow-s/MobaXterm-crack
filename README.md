@@ -9,13 +9,13 @@
 需要安装Python3!!!
 ```
 pip install --no-cache-dir -r requirements.txt
-python app.py
+python docker-install.py
 ```
 
 ## Docker
 ```
-docker pull malaohu/mobaxterm-genkey
-docker run -d -p 5000:5000 malaohu/mobaxterm-genkey
+docker pull tomorrow1/mobaxterm-crack
+docker run -d -p 5000:5000 tomorrow1/mobaxterm-crack
 ```
 
 

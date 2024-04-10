@@ -9,7 +9,7 @@
 需要安装Python3!!!
 ```
 pip install --no-cache-dir -r requirements.txt
-python docker-install.py
+python app.py
 ```
 
 ## Docker

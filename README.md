@@ -14,8 +14,8 @@ python app.py
 
 ## Docker
 ```
-docker pull tomorrow1/mobaxterm-crack
-docker run -d -p 5000:5000 tomorrow1/mobaxterm-crack
+docker pull malaohu/mobaxterm-genkey
+docker run -d -p 5000:5000 malaohu/mobaxterm-genkey
 ```
 
 
